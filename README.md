@@ -1,4 +1,5 @@
 # ProyectoEjemplo
 Mi primer repositorio de Github
 
-# Documentacion 1 (Dev1)
+# Documentacion 2 (Dev2)
+Documentacion del desarollador 2
